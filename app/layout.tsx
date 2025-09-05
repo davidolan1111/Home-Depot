@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "The Home Depot",
   description: "More saving. More doing.",
-    generator: 'v0.app'
+    generator: ''
 }
 
 export default function RootLayout({
